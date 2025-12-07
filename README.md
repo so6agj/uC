@@ -1,2 +1,2 @@
 # uC
-micro-controller projects
+micro-controller example projects
